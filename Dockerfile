@@ -8,4 +8,6 @@ VOLUME [ "/usr/src/app" ]
 
 EXPOSE 3000
 
+ENV CHOKIDAR_USEPOLLING=true
+
 CMD [ "npm", "start" ]
