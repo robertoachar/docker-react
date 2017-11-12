@@ -6,7 +6,10 @@
   "homepage": "https://github.com/robertoachar/docker-react#readme",
   "keywords": [
     "docker",
-    "react"
+    "docker-compose",
+    "create-react-app",
+    "react",
+    "live-reload"
   ],
   "scripts": {
     "start": "react-scripts start",
